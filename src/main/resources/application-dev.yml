@@ -1,0 +1,15 @@
+myapp:
+  name: "cas"
+database:
+  host: localhost
+  #host: 10.10.80.14
+  port: 3306
+  databasename: test
+  username: root
+  #username: netx
+  password: root
+
+mysqlSize:
+  max: 8
+  min: 2
+  size: 2
